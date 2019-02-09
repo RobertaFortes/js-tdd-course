@@ -1,6 +1,6 @@
 {
   "name": "js-tdd-course",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Biblioteca do curso JS com TDD na prática",
   "main": "index.js",
   "scripts": {
